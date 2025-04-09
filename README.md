@@ -18,7 +18,7 @@ Utilizar a seguinte estrutura no body:
      }
    
 ## Para testar o WebHook:
-> **Nota:** Não ficou muito claro qual a função do WebHook.
+> **Nota:** Não ficou muito claro qual a função real e o HubSpot não permite a chamada de WebHooks em ambientes locais.
 
   Utilizar o método POST para a seguinte URL: http://localhost:8080/webhook/contact  
   Utilizar a seguinte estrutura no body:
