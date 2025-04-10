@@ -1,5 +1,7 @@
 # Instruções para execução do projeto:
 
+> **Nota:** Utilizar Java 17 para executar o projeto.
+
  Clonar o projeto e Inserir o clientId e clientSecret nas variaveis de ambiente:
  
     HUBSPOT_CLIENT_SECRET=8fe7d409-449d-4d97-a8a8-47b09e954e9d
